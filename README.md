@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 fruits = ["apple", "banana", "cherry"]
 fruits.sort()
-print(fruits)
+print(fruit)
+['apple', 'banana', 'cherry', ]
